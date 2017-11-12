@@ -1,0 +1,15 @@
+# Site settings
+title: Jekyll shop powered by Snipcart
+email: s
+description: Here's a quick demo showing the integration between Snipcart and Jekyll. We hope you like it!
+baseurl: "/shop" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: s
+github_username:  s
+api_key: MTMxM2JjYmMtYmIyNi00OTEzLThhOWItOWQ0Mjg0NDU1MTliNjM2NDYxMTc5MDAzNzUxOTc3
+
+# Build settings
+markdown: kramdown
+collections:
+  products:
+    output: true
